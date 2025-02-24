@@ -12,6 +12,7 @@
     grid-template-columns: auto auto auto;
     border: 3px solid pink;
     column-gap: 7ch;
+
   }
 
 h1{
@@ -26,4 +27,11 @@ h2{
     display: grid;
     grid-template-columns: auto auto auto ;
     column-gap: 10ch;
+}
+
+#titles2{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    column-gap: 10ch;
+    margin-top: 5ch;
 }
