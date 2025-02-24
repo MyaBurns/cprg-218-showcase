@@ -19,10 +19,11 @@ h1{
 }
 
 h2{
-    font-size: small;
+    font-size: medium;
 }
 
 #titles{
     display: grid;
     grid-template-columns: auto auto auto ;
+    column-gap: 10ch;
 }
