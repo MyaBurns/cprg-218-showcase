@@ -24,6 +24,9 @@ h1{
 h2{
     font-size: medium;
     border: 2px solid lightcoral;
+    border-radius: 50%;
+    border-style:dotted;
+
 }
 
 #titles{
@@ -43,14 +46,26 @@ h2{
 }
 
 #images{
+    border-style:dotted;
+    border-width: 1ch;
+    border-color: rgb(255, 234, 77);
     display: grid;
     grid-template-columns: auto auto auto ;
-    margin-top: 2rem 
+    margin-top: 2rem    
+
 } 
+
+
 
 #images2{
     display: grid;
     grid-template-columns: auto auto auto ;
     margin-top: 2rem;
+    border-style:dotted;
+    border-width: 1ch;
+    border-color: rgb(255, 234, 77);
 } 
 
+footer {
+    text-align: center;
+}
