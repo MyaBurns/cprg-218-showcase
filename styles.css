@@ -17,6 +17,8 @@
 
 h1{
     color: rgb(165, 82, 109);
+    text-align: center;
+    background-color:rgb(252, 224, 229);
 }
 
 h2{
@@ -28,11 +30,27 @@ h2{
     display: grid;
     grid-template-columns: auto auto auto ;
     column-gap: 10ch;
+    text-align: center;
+    margin-top: 1rem
 }
 
 #titles2{
     display: grid;
     grid-template-columns: auto auto auto ;
     column-gap: 10ch;
-    margin-top: 5ch;
+    margin-top: 1rem;
+    text-align: center;
 }
+
+#images{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    margin-top: 2rem 
+} 
+
+#images2{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    margin-top: 2rem;
+} 
+
