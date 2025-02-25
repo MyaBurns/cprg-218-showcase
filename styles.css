@@ -19,14 +19,14 @@ h1{
     color: rgb(165, 82, 109);
     text-align: center;
     background-color:rgb(252, 224, 229);
+
 }
 
 h2{
     font-size: medium;
     border: 2px solid lightcoral;
     border-radius: 50%;
-    border-style:dotted;
-
+    border-style:double;
 }
 
 #titles{
@@ -54,8 +54,6 @@ h2{
     margin-top: 2rem    
 
 } 
-
-
 
 #images2{
     display: grid;
