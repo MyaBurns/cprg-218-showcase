@@ -82,17 +82,16 @@ main {
 }
 
 .Shestheman {
-    position:sticky;
     margin-top: 3%;
-   
-}
-.Shestheman {
     position: static;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-}
+    margin-left: 10ch;
+    margin-right: 10ch;
+   }
+
 
 
 @media all and (max-width: 320px)
