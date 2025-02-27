@@ -68,7 +68,7 @@ h2{
 
 footer {
     text-align: center;
-    padding-top:70%;
+    padding: top 10px;
 }
 
 p{
@@ -82,9 +82,8 @@ main {
 }
 
 .Shestheman {
-    position:static;
-    border: 2.5px solid lightcoral;
-    margin-top: 7%;
+    position:sticky;
+    margin-top: 3%;
    
 }
 .Shestheman {
