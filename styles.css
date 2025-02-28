@@ -48,6 +48,7 @@ h2{
 }
 
 #images{
+    text-align: center;
     border-style:dotted;
     border-width: 1ch;
     border-color: rgb(255, 234, 77);
@@ -64,6 +65,7 @@ h2{
     border-style:dotted;
     border-width: 1ch;
     border-color: rgb(255, 234, 77);
+    text-align:center ;
 } 
 
 footer {
@@ -88,10 +90,19 @@ main {
     left: 0;
     width: 100%;
     height: 100%;
-    margin-left: 10ch;
-    margin-right: 10ch;
+    margin-left: 5ch;
+    margin-right: 5ch;
+    text-align: center;
    }
 
+   h3 {
+    text-align: center;
+    margin-left: 7ch;
+   }
+
+   body{
+   min-width: 10px;
+   }
 
 
 @media all and (max-width: 320px)
