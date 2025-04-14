@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Arsenal_SC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cprg-218-showcase"
+	}
+}
